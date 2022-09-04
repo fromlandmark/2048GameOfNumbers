@@ -1,0 +1,20 @@
+{
+  "name": "2048gameofnumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fromlandmark/2048GameOfNumbers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fromlandmark/2048GameOfNumbers/issues"
+  },
+  "homepage": "https://github.com/fromlandmark/2048GameOfNumbers#readme"
+}
